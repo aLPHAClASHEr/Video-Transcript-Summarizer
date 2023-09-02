@@ -1,8 +1,13 @@
-openai
-numpy
-pandas
+tensorflow
+torch
+transformer
 python-dotenv
-langchain
+huggingsound
+os
+pytube
+moviepy
+kenlm
+pyctcdecode
 
 # Also install jupyter notebook seperately using pip install jupyter notebook
 
