@@ -1,0 +1,8 @@
+openai
+numpy
+pandas
+python-dotenv
+langchain
+
+# Also install jupyter notebook seperately using pip install jupyter notebook
+
